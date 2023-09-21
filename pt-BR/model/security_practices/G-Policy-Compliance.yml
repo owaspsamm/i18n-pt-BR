@@ -1,0 +1,8 @@
+---
+#===========================================================
+#OWASP SAMM2 Security Practice template/sample
+#===========================================================
+#Link to the model, using its unique identifier
+function: 102ad02df5dc4a8eb3837ef4ca2c1af4
+#The relative order of this practice in the business function
+order: 2
