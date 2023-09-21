@@ -1,0 +1,15 @@
+#The title of this activity
+title: Definir a estratégia de segurança
+#Describe the benefit that is achieved by implementing this activity
+benefit: Disponível e acordado o roadmap do seu programa AppSec
+#A one sentence description of the activity
+shortDescription: Publique uma estratégia unificada para a segurança do aplicativo.
+#A multi-paragraph description of the activity
+longDescription: |
+  Com base na magnitude dos ativos, ameaças e tolerância ao risco, desenvolva um plano estratégico de segurança e orçamento para lidar com prioridades de negócios em torno da segurança da aplicação. O plano abrange 1 a 3 anos e inclui marcos compatíveis com os condutores de negócios e os riscos da organização. Proporciona iniciativas tácticas e estratégicas e segue um roteiro que torna visível o seu alinhamento com as prioridades e necessidades comerciais.
+
+  No planejamento, você alcança um equilíbrio entre as mudanças que requerem despesas financeiras, mudanças de processos e procedimentos e mudanças que afetam a cultura da organização. Este saldo ajuda a realizar vários marcos simultâneos e sem sobrecarregar ou esgotar recursos disponíveis ou equipes de desenvolvimento. Os marcos são suficientemente frequentes para ajudar a monitorar o sucesso do programa e desencadear ajustamentos atempados no Roteiro.
+
+  Para o programa ser bem sucedido, a equipe de segurança do aplicativo obtém compra dos interessados da organização e das equipes de desenvolvimento de aplicativos. Está disponível um plano publicado para qualquer pessoa que seja necessário apoiar ou participar na sua implementação.
+#Type Classification of the Document
+type: Atividade

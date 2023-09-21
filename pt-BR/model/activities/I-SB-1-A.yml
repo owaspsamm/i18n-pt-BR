@@ -1,0 +1,23 @@
+#The title of this activity
+title: Definir um processo de compilação consistente
+#Describe the benefit that is achieved by implementing this activity
+benefit: Risco limitado de erro humano durante o processo de compilação minimizando problemas de segurança
+#A one sentence description of the activity
+shortDescription: Crie uma definição formal do processo de compilação para que ele se torne consistente e reproduzível.
+#A multi-paragraph description of the activity
+longDescription: |
+  Defina o processo de compilação, dividindo-o em um conjunto de instruções claras a serem seguidas por uma pessoa ou uma ferramenta automatizada. A definição do processo de compilação descreve todo o processo de ponta a ponta, para que a pessoa ou ferramenta possa segui-la consistentemente cada vez e produzir o mesmo resultado. A definição é armazenada centralmente e acessível a quaisquer ferramentas ou pessoas. Evite armazenar várias cópias, pois elas podem ficar desalinhadas e desatualizadas.
+
+  A definição do processo não inclui quaisquer segredos (especificamente considerando os necessários durante o processo de compilação).
+
+  Revise qualquer ferramenta de construção, garantindo que eles sejam ativamente mantidos pelos fornecedores e atualizados com correções de segurança. Reforce a configuração de cada ferramenta para que esteja alinhada com diretrizes dos fornecedores e as melhores práticas da indústria.
+
+  Determine um valor para cada artefato gerado que pode ser usado mais tarde para verificar sua integridade, como uma assinatura ou um hash. Proteja este valor e, se o artefato estiver assinado, o certificado de assinatura privado.
+
+  Certifique-se de que as ferramentas de construção são rotineiramente corrigidas e devidamente fortalecidas.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Desenvolvedor
+  - Engenheiro de Segurança
+#Type Classification of the Document
+type: Atividade

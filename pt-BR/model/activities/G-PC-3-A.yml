@@ -1,0 +1,13 @@
+#The title of this activity
+title: Medir o cumprimento das políticas e padrões
+#Describe the benefit that is achieved by implementing this activity
+benefit: Entendimento da conformidade da sua organização com políticas e padrões
+#A one sentence description of the activity
+shortDescription: Medir e reportar sobre o estado da adesão da aplicação individual às políticas e às normas.
+#A multi-paragraph description of the activity
+longDescription: |
+  Desenvolva um programa para medir a conformidade de cada aplicação com as políticas e padrões existentes. Requisitos obrigatórios devem ser motivados e relatados consistentemente em todas as equipes. Sempre que possível, amarre status de conformidade em testes automatizados e reporte com cada versão. O relatório de conformidade inclui a versão de políticas e padrões e factores de cobertura de código apropriados.
+
+  Incentive as equipes não conformes a revisar os recursos disponíveis, como requisitos de segurança e scripts de teste, para garantir que o não cumprimento não seja resultado de orientações inadequadas. Encaminhe problemas resultantes de orientações insuficientes para as equipes responsáveis pela publicação de requisitos de aplicativos e scripts de teste, para incluí-los em versões futuras. Acelere problemas resultantes da incapacidade de cumprir políticas e padrões as equipes que lidam com riscos de segurança do aplicativo.
+#Type Classification of the Document
+type: Atividade

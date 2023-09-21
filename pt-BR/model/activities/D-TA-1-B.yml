@@ -1,0 +1,17 @@
+#The title of this activity
+title: Execute a modelagem básica de ameaças
+#Describe the benefit that is achieved by implementing this activity
+benefit: Identificação de falhas de arquitetura de projeto em seus aplicativos
+#A one sentence description of the activity
+shortDescription: Execute a modelagem de ameaças baseada em risco e de melhor esforço usando brainstorming e diagramas existentes com listas de verificação de ameaças simples.
+#A multi-paragraph description of the activity
+longDescription: |
+  A modelagem de ameaças é uma atividade estruturada para identificar, avaliar e gerenciar ameaças ao sistema, falhas de arquitetira de projeto e mitigações de segurança recomendadas. Normalmente, é feita como parte da fase de design ou como parte de uma avaliação de segurança.
+
+  A modelagem de ameaças é um exercício de equipe, incluindo proprietários de produtos, arquitetos, campeões de segurança e testadores de segurança. Nesse nível de maturidade, exponha as equipes e as partes interessadas à modelagem de ameaças para aumentar a conscientização sobre a segurança e criar uma visão compartilhada sobre a segurança do sistema.
+
+  No nível de maturidade 1, você executa a modelagem de ameaças ad-hoc para aplicativos de alto risco. e usa listas de verificação de ameaças simples, como STRIDE. Evite workshops longos e listas excessivamente detalhadas de ameaças de baixa relevância. Execute a modelagem de ameaças iterativamente para se alinhar a paradigmas de desenvolvimento mais iterativos. Se você adicionar uma nova funcionalidade a um aplicativo existente, observe apenas as funções adicionadas recentemente, em vez de tentar cobrir todo o escopo. Um bom ponto de partida são os diagramas existentes que você anota durante os workshops de discussão. Sempre certifique-se de persistir no resultado de uma discussão sobre modelagem de ameaças para uso posterior.
+
+  Sua ferramenta mais importante para iniciar a modelagem de ameaças é um quadro branco, quadro inteligente ou um pedaço de papel. Vise a consciência de segurança, um processo simples e resultados acionáveis que você concorda com sua equipe.
+#Type Classification of the Document
+type: Atividade

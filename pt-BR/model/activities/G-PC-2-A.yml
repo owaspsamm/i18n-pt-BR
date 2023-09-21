@@ -1,0 +1,15 @@
+#The title of this activity
+title: Desenvolver procedimentos de teste
+#Describe the benefit that is achieved by implementing this activity
+benefit: Compreensão comum de como alcançar a conformidade com as políticas de segurança para equipes de produto
+#A one sentence description of the activity
+shortDescription: Desenvolva os requisitos de segurança aplicáveis a todas as aplicações.
+#A multi-paragraph description of the activity
+longDescription: |
+  Ajudar à implementação e verificação em curso do cumprimento das políticas e das normas. desenvolver segurança do aplicativo e scripts de teste apropriados relacionados a cada requisito aplicável. Organize esses documentos em bibliotecas e disponibilize-os para todas as equipes de aplicação em formatos mais adequados para inclusão em cada aplicativo. Identifique claramente os documentos e associe-os às políticas e padrões que representam, de modo a ajudar nas actualizações e manutenção em curso. Políticas de versão e padrões e incluem logs de mudança detalhados com cada atualização iterativa para facilitar a inclusão contínua no SDLC de diferentes produtos.
+
+  Gravar os requisitos de segurança do aplicativo em um formato consistente com os processos de gerenciamento de requisitos existentes. Você pode precisar de mais de uma versão adaptada a diferentes metodologias de desenvolvimento ou tecnologias. O objectivo é facilitar às várias equipas de produtos a incorporação de políticas e normas nos seus actuais ciclos de vida que requerem uma interpretação mínima dos requisitos.
+
+  Scripts de teste ajudam a reforçar os requisitos de segurança do aplicativo através de expectativas claras de funcionalidade da aplicação, e guia os esforços de testes automatizados ou manuais que já podem fazer parte do processo de desenvolvimento. Esses esforços não só ajudam cada equipe a estabelecer o estado actual de cumprimento das políticas e padrões existentes, mas também garantir a conformidade com as candidaturas continuam a mudar.
+#Type Classification of the Document
+type: Atividade

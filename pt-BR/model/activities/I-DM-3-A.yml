@@ -1,0 +1,23 @@
+#The title of this activity
+title: Forçar um SLA para gerenciamento de defeitos
+#Describe the benefit that is achieved by implementing this activity
+benefit: Garantia de que os defeitos de segurança são tratados dentro de SLAs predefinidos
+#A one sentence description of the activity
+shortDescription: Reforce SLAs predefinidas e integre seu sistema de gerenciamento de defeitos com outras ferramentas relevantes.
+#A multi-paragraph description of the activity
+longDescription: |
+  Implementar um alerta automatizado sobre defeitos de segurança caso a correção infrinja os SLAs definidos. Assegurar que esses defeitos sejam automaticamente transferidos para o processo de gestão de riscos e avaliados por uma metodologia quantitativa consistente. Avaliar como em particular defeito influencia/amplifica uns aos outros não apenas no nível de equipes separadas, mas no nível de toda a organização. Use o conhecimento da cadeia completa de mortes para priorizar, introduzir e rastrear controles compensatórios mitigando os respectivos riscos de negócio.
+
+  Integre seu sistema de gerenciamento de defeitos com as ferramentas automatizadas introduzidas por outras práticas, por exemplo
+
+  * Construção e Implementação: Falha no processo de compilação / implantação se a segurança defeito acima de alguma severidade afetar o artefato final, a menos que alguém saia explicitamente da exceção.
+  * Monitorar: Se possível, garanta que o abuso do defeito de segurança no ambiente de produção seja reconhecido e alertado.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Administradores
+  - Engenheiro de Segurança
+  - Oficial de Segurança
+  - Dono do Produto
+  - Gerente
+#Type Classification of the Document
+type: Atividade

@@ -1,0 +1,22 @@
+#The title of this activity
+title: Definir métricas básicas de segurança
+#Describe the benefit that is achieved by implementing this activity
+benefit: Identificação de vitórias rápidas derivadas de informações de defeito disponíveis
+#A one sentence description of the activity
+shortDescription: Passar regularmente por defeitos de segurança previamente gravados e derivar de métricas básicas.
+#A multi-paragraph description of the activity
+longDescription: |
+  Uma vez por período de tempo definido (normalmente pelo menos uma vez por ano), leia suas duas questões resolvidas e ainda abra falhas de segurança gravadas em cada equipe e extraia as métricas básicas dos dados disponíveis. Estes podem incluir:
+
+  * O número total de defeitos versus número total de atividades de verificação. Isto pode lhe dar uma ideia se você está procurando defeitos com intensidade e qualidade adequadas.
+  * Os componentes do software em que os defeitos residem. Isto é indicativo de onde poderá ser mais necessária atenção e de onde as falhas de segurança poderão voltar a surgir no futuro.
+  * O tipo ou categoria do defeito, que sugere áreas onde a equipe de desenvolvimento precisa de treinamento adicional.
+  * A severidade do defeito, que pode ajudar a equipe a entender a exposição de riscos do software.
+
+  Identifique e leve a cabo atividades sensatas de ganho rápido, que podem ser derivadas dos conhecimentos recentemente adquiridos. Isso pode incluir coisas como uma sessão de compartilhamento de conhecimento sobre um tipo específico de vulnerabilidade ou realizar / automatizar um escaneamento de segurança.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Desenvolvedor
+  - Campeão de Segurança
+#Type Classification of the Document
+type: Atividade

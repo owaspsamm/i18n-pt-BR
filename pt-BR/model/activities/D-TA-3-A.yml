@@ -1,0 +1,15 @@
+#The title of this activity
+title: Revisão periódica dos perfis de risco
+#Describe the benefit that is achieved by implementing this activity
+benefit: Atualização constante da classificação da aplicação em caso de alterações
+#A one sentence description of the activity
+shortDescription: Analisar periodicamente os perfis de risco da aplicação em intervalos regulares para garantir a precisão e refletir o estado atual.
+#A multi-paragraph description of the activity
+longDescription: |
+  O portfólio de aplicação de uma organização muda, bem como as condições e restrições em que vive uma aplicação (por exemplo, conduzido pela estratégia da empresa). Revise periodicamente o inventário de riscos para garantir a exatidão das avaliações de riscos de diferentes aplicações.
+
+  Tenha uma revisão periódica em um nível todo empresarial. Além disso, à medida que a sua empresa amadurece com garantia de software, estimula as equipes a questionarem continuamente quais alterações nas condições podem impactar o perfil de risco. Por exemplo, uma aplicação interna pode se tornar exposta à internet por uma decisão de negócios. Isso deve fazer com que as equipes voltem a fazer a avaliação de risco e atualizem o perfil de risco do aplicativo adequadamente.
+
+  Em uma implementação adulta desta prática, treine e atualize continuamente equipes sobre as lições aprendidas e as melhores práticas destas avaliações de risco. Isto leva a uma melhor execução e uma representação mais precisa do perfil de risco de aplicação.
+#Type Classification of the Document
+type: Atividade

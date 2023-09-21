@@ -1,0 +1,13 @@
+#The title of this activity
+title: Normalizar política e requisitos de conformidade
+#Describe the benefit that is achieved by implementing this activity
+benefit: Compreensão comum de como alcançar a conformidade com as políticas de segurança para equipes de produto
+#A one sentence description of the activity
+shortDescription: Publicar requisitos de aplicação específicos de conformidade e orientação de teste.
+#A multi-paragraph description of the activity
+longDescription: |
+  Desenvolver uma biblioteca de requisitos de aplicação e scripts de teste para estabelecer e verificar a conformidade regulamentar de aplicações. Alguns destes estão vinculados a requisitos de conformidade individual, como PCI ou GDPR, enquanto outros são de natureza mais geral e respondem aos requisitos de conformidade globais, como a ISO. A biblioteca está disponível para todas as equipes de desenvolvimento de aplicativos. Inclui orientações para a determinação de todos os requisitos aplicáveis, incluindo considerações para reduzir o peso e o âmbito de aplicação. Implementar um processo para reavaliar periodicamente os requisitos de conformidade de cada candidatura. Re-avaliação inclui rever todas as funcionalidades da aplicação e oportunidades para reduzir o escopo para diminuir o custo global da conformidade.
+
+  Os requisitos incluem informações suficientes para que os desenvolvedores entendam os requisitos funcionais e não funcionais das diferentes obrigações de conformidade. Incluem referências a políticas e normas, e fazem referências explícitas à regulamentação. Se houver dúvidas sobre a implementação de uma determinada exigência, o texto original do regulamento pode ajudar a interpretar a intenção com maior precisão. Cada requisito inclui um conjunto de scripts de teste para verificar a conformidade. Além de ajudar o controle de qualidade com verificação de conformidade, eles podem ajudar a esclarecer os requisitos de conformidade para os desenvolvedores e tornar o processo de conformidade transparente. Requisitos têm um formato que permite importá-los em repositórios de requisitos individuais. clarifique melhor os requisitos de conformidade para os desenvolvedores e assegure que o processo de cumprimento seja totalmente transparente.
+#Type Classification of the Document
+type: Atividade

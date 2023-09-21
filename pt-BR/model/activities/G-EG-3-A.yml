@@ -1,0 +1,17 @@
+#The title of this activity
+title: Normalizar orientação de segurança
+#Describe the benefit that is achieved by implementing this activity
+benefit: Conhecimento adequado de segurança de todos os funcionários assegurado antes de trabalhar em tarefas críticas
+#A one sentence description of the activity
+shortDescription: Padrões de orientação interna em torno dos padrões de desenvolvimento de software seguros da organização.
+#A multi-paragraph description of the activity
+longDescription: |
+  Implementar um programa de treinamento formal que exige que qualquer pessoa que esteja envolvido no ciclo de vida de desenvolvimento de software complete o papel adequado e o treinamento específico da tecnologia como parte do processo de integração. Com base na crítica do aplicativo e no papel do utilizador, considere restringir o acesso até que o treinamento de integração tenha sido concluído. Enquanto a organização pode comprar alguns módulos externamente, o programa é facilitado e gerenciado internamente e inclui conteúdo específico para a organização, que vai além das melhores práticas gerais de segurança. O programa tem um currículo definido, verifica a participação e testa a compreensão e a competência. A formação consiste numa combinação entre as melhores práticas da indústria e os padrões internos da organização, incluindo a formação sobre sistemas específicos utilizados pela organização.
+
+  Além de questões diretamente relacionadas à segurança, a organização inclui outros padrões do programa, tais como complexidade de código, documentação de código, denominação de convenção e outras disciplinas relacionadas a processos. Este treinamento minimiza os problemas resultantes das práticas subsequentes aos funcionários incorporadas fora da organização e garante continuidade no estilo e competência do código.
+
+  Para facilitar o acompanhamento do progresso e a conclusão bem sucedida de cada módulo de treinamento, a organização tem uma plataforma de gerenciamento de aprendizado ou outro portal centralizado com funcionalidades similares. Os trabalhadores podem acompanhar o seu progresso e ter acesso a todos os recursos de formação, mesmo depois de completarem a formação inicial.
+
+  Revise as questões resultantes de funcionários que não seguem os padrões, políticas, procedimentos ou as melhores práticas de segurança, pelo menos anualmente, para avaliar a eficácia da formação e assegurar que ela cubra todas as questões relevantes para a organização. Atualize o treinamento periodicamente e treine os funcionários sobre quaisquer mudanças e deficiências de segurança mais prevalecentes.
+#Type Classification of the Document
+type: Atividade

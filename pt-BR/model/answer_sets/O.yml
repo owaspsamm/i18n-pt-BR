@@ -1,0 +1,31 @@
+#Different answers with their properties. We use 4 levels or answers
+values:
+  - 
+    #lowest level
+    text: false
+    value: 0
+    weight: 1
+    order: 0
+  - 
+    #second level
+    text: Sim, nós o revemos anualmente
+    value: 0.25
+    weight: 1
+    order: 1
+  - 
+    #third level
+    text: Sim, consultamos o plano antes de tomar decisões significativas
+    value: 0.5
+    weight: 1
+    order: 2
+  - 
+    #highest level
+    text:
+      #highest level
+      Yes, we consult the plan often, and it is aligned with our application security strategy value:
+        #highest level
+        1 weight:
+          #highest level
+          1 order: 3
+#Type Classification of the Document
+type: AnswerSet

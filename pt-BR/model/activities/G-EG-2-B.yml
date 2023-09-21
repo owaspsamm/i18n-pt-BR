@@ -1,0 +1,15 @@
+#The title of this activity
+title: Implementar centros de excelência
+#Describe the benefit that is achieved by implementing this activity
+benefit: Melhores práticas específicas de segurança adaptadas à organização
+#A one sentence description of the activity
+shortDescription: Desenvolva um centro de excelência de software seguro promovendo a liderança do pensamento entre desenvolvedores e arquitetos.
+#A multi-paragraph description of the activity
+longDescription: |
+  A organização implementa um centro de codificação formal e seguro de excelência, com arquitectos e desenvolvedores seniores representando as diferentes unidades de negócios e pilhas de tecnologia. A equipe tem uma Carta oficial e define padrões e melhores práticas para melhorar as práticas de desenvolvimento de software. O objetivo é reduzir a velocidade vetorial da mudança na tecnologia, programando linguagens. e os quadros e bibliotecas de desenvolvimento dificultam que os profissionais da Segurança da Informação sejam plenamente informados de todas as nuances técnicas que têm impacto na segurança. Até mesmo os desenvolvedores frequentemente lutam para acompanhar todas as mudanças e novas ferramentas destinadas a tornar o desenvolvimento de softwares mais rápido, melhor e mais seguro.
+
+  Isso garante que todos os atuais esforços de programação sigam as melhores práticas da indústria e os padrões de desenvolvimento e implementação da organização incluem todas as configurações críticas. Isso ajuda a identificar, treinar e apoiar "Campeões do Produto", responsável por ajudar diferentes equipes com ferramentas de implementação que automatizem, simplifiquem ou melhorem vários aspectos do SDLC. Identifica equipas de desenvolvimento com níveis de maturidade mais elevados no seu SDLC e as práticas e ferramentas que permitem essas conquistas. com o objetivo de replicá-los em outras equipes.
+
+  O grupo fornece o assunto especialista especializado, ajudando equipes de segurança da informação a avaliar ferramentas e soluções para melhorar a segurança do aplicativo, garantir que essas ferramentas não sejam apenas úteis, mas também compatíveis com a forma como diferentes equipes desenvolvem aplicativos. Equipes que procuram fazer mudanças arquitetônicas significativas em seu software consultam com este grupo para evitar um impacto negativo no ciclo de vida do SDLC ou controles de segurança estabelecidos.
+#Type Classification of the Document
+type: Atividade

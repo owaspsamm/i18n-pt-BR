@@ -1,0 +1,13 @@
+#The title of this activity
+title: Discuta responsabilidades de segurança com fornecedores
+#Describe the benefit that is achieved by implementing this activity
+benefit: Responsabilidades de segurança claramente definidas de seus fornecedores de software
+#A one sentence description of the activity
+shortDescription: Crie segurança nos contratos de fornecedores para garantir a conformidade com os requisitos organizacionais.
+#A multi-paragraph description of the activity
+longDescription: |
+  Aumente sua confiança na capacidade de seus fornecedores para segurança de software. Discuta responsabilidades e expectativas concretas dos seus fornecedores e da sua própria organização e estabeleça um contrato com o fornecedor. As responsabilidades podem ser requisitos específicos de qualidade ou tarefas específicas, e um serviço mínimo pode ser detalhado em um Contrato de Nível de Serviço (SLA). Um exemplo de exigência de qualidade é que eles fornecerão software protegido contra o OWASP Top 10, e no caso de problemas serem detectados, eles serão corrigidos. Um exemplo de tarefa é que eles têm que realizar análise contínua de código estático, ou realizar um teste de penetração independente antes de uma versão principal. O contrato estipula passivos e limites máximos caso surja um problema importante.
+
+  Depois de implementar isso para alguns fornecedores, trabalhe para um acordo padrão para fornecedores que constituirá a base de suas negociações. Você pode se afastar deste acordo padrão caso a caso, mas isso o ajudará a garantir que você não ignore tópicos importantes.
+#Type Classification of the Document
+type: Atividade

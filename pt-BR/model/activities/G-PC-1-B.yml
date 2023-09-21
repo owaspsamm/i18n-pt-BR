@@ -1,0 +1,15 @@
+#The title of this activity
+title: Identifique os requisitos de segurança
+#Describe the benefit that is achieved by implementing this activity
+benefit: Políticas de segurança e padrões alinhados com os motoristas de conformidade externos
+#A one sentence description of the activity
+shortDescription: Identifique drivers e requisitos de conformidade de terceiros e mapeie as políticas e padrões existentes.
+#A multi-paragraph description of the activity
+longDescription: |
+  Crie uma lista completa de todos os requisitos de conformidade, incluindo quaisquer gatilhos que possam ajudar a determinar quais aplicativos estão no escopo. Requisitos de conformidade podem ser considerados no escopo com base em fatores como localização geográfica, tipos de dados ou obrigações contratuais com clientes ou parceiros de negócios. Revise cada requisito de conformidade identificado com os peritos e a legalidade adequados, para garantir que a obrigação seja compreendida. Uma vez que muitas obrigações de conformidade variam em aplicabilidade com base na forma como os dados são processados, armazenados ou transmitidos através do ambiente de computação. Os condutores de conformidade devem sempre indicar oportunidades para reduzir o ónus do cumprimento global, alterando a forma como os dados são tratados.
+
+  Avalie a publicação de uma matriz de conformidade para ajudar a identificar quais fatores poderiam colocar uma aplicação no escopo para um requisito regulamentar específico. Peça à matriz que indique quais requisitos de conformidade são aplicáveis ao nível da organização e não dependem de candidaturas individuais. A matriz fornece pelo menos uma compreensão básica de requisitos úteis de conformidade para rever obrigações em função de diferentes aplicações.
+
+  Uma vez que muitas normas de conformidade se focam em torno das melhores práticas de segurança, muitos requisitos de conformidade já podem fazer parte da biblioteca Política e Normas publicada pela organização. Portanto, assim que você rever os requisitos de conformidade, mapeie-os para quaisquer políticas e padrões existentes aplicáveis. Sempre que houver discrepâncias, atualize as políticas e os padrões para incluir requisitos de conformidade de toda a organização. Em seguida, comece a criar padrões específicos de conformidade somente aplicáveis aos requisitos individuais de conformidade. O objetivo é ter uma matriz de conformidade que indique quais políticas e normas têm informações mais detalhadas sobre os requisitos de conformidade. Além de garantir políticas individuais e normas fazem referência aos requisitos aplicáveis de conformidade.
+#Type Classification of the Document
+type: Atividade

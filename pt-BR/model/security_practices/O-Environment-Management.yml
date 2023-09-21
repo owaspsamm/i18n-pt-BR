@@ -1,0 +1,8 @@
+---
+#===========================================================
+#OWASP SAMM2 Security Practice - Environment Management
+#===========================================================
+#Link to the model, using its unique identifier
+function: 942d679b0c9e41909f8bde728fdb1259
+#The relative order of this practice in the business function
+order: 2

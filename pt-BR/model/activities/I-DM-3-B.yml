@@ -1,0 +1,25 @@
+#The title of this activity
+title: Use métricas para melhorar a estratégia de segurança
+#Describe the benefit that is achieved by implementing this activity
+benefit: Estratégia de segurança otimizada com base em informações sobre defeitos
+#A one sentence description of the activity
+shortDescription: Melhore continuamente suas métricas de gerenciamento de defeitos de segurança e correlacione-as com outras fontes.
+#A multi-paragraph description of the activity
+longDescription: |
+  Regularmente (pelo menos uma vez por ano) revisita as métricas de gerenciamento de defeitos que você está coletando e comparando o esforço necessário para coletar e rastrear eles até os resultados esperados. Tome uma decisão esclarecida sobre a remoção de métricas que não oferecem o valor esperado geral. Sempre que possível, inclua e automatize actividades de verificação da qualidade dos dados recolhidos e assegure uma melhoria sustentável, se houver diferenças detectadas.
+
+  Agrege os dados com suas métricas de inteligência e gerenciamento de incidentes e use os resultados como contributos para outras iniciativas em toda a organização, tais como:
+
+  * Planejamento de treinamentos de segurança para vários pessoal
+  * Melhoria das atividades de verificação de segurança, tanto para interna quanto externamente, developed coleta
+  * Gerenciamento da cadeia de suprimentos. . realiza auditorias de segurança de organizações parceiras
+  * Monitoramento de ataques à sua infraestrutura e aplicativos
+  * Investir em infraestrutura de segurança ou compensar controles
+  * Funcionando com sua equipe de segurança e configurando o orçamento de segurança
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Oficial de Segurança
+  - Engenheiro de Segurança
+  - Gerente
+#Type Classification of the Document
+type: Atividade

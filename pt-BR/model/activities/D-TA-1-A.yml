@@ -1,0 +1,13 @@
+#The title of this activity
+title: Realize avaliações de risco de aplicativos
+#Describe the benefit that is achieved by implementing this activity
+benefit: Capacidade de classificar aplicativos de acordo com o risco
+#A one sentence description of the activity
+shortDescription: Uma avaliação básica do risco do aplicativo é realizada para entender a probabilidade e o impacto de um ataque.
+#A multi-paragraph description of the activity
+longDescription: |
+  Use um método simples para avaliar o risco do aplicativo por aplicativo, estimando o potencial impacto nos negócios que ele representa para a organização em caso de ataque. Para isso, avalie o impacto de uma violação na confidencialidade, integridade e disponibilidade dos dados ou serviços. Considere a utilização de um conjunto de 5 a 10 perguntas para entender características importantes do aplicativo, como por exemplo se o aplicativo processa dados financeiros, se é voltado para a Internet ou se dados relacionados à privacidade estão envolvidos. O perfil de risco do aplicativo informa se esses fatores são aplicáveis ​​e se eles podem impactar significativamente a organização.
+
+  Em seguida, use um esquema para classificar os aplicativos de acordo com esse risco. Um sistema simples e qualitativo (por exemplo, alto/médio/baixo) que traduz estas características num valor é frequentemente eficaz. É importante utilizar estes valores para representar e comparar o risco de diferentes aplicações entre si. Organizações maduras altamente orientadas para o risco podem fazer uso de esquemas de risco mais quantitativos. Não invente um novo esquema de risco se sua organização já tiver um que funcione bem.
+#Type Classification of the Document
+type: Atividade

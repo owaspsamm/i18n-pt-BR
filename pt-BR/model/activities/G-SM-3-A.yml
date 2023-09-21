@@ -1,0 +1,15 @@
+#The title of this activity
+title: Alinhar estratégias de segurança e negócios
+#Describe the benefit that is achieved by implementing this activity
+benefit: Programa AppSec contínuo alinhamento com os objetivos de negócios da organização
+#A one sentence description of the activity
+shortDescription: Alinha o programa de segurança de aplicativos para apoiar o crescimento da organização.
+#A multi-paragraph description of the activity
+longDescription: |
+  Você revisa periodicamente o plano de segurança do aplicativo para a aplicabilidade contínua e apoio às necessidades em evolução da organização e ao crescimento futuro. Para isso, repetimos os passos dos dois primeiros níveis de maturidade desta Prática de Segurança pelo menos anualmente. O objetivo é que o plano sempre apoie as necessidades atuais e futuras da organização, o que garante que o programa seja alinhado com o negócio.
+
+  Além de analisar os motoristas de negócios, a organização monitora de perto o sucesso da implementação de cada um dos marcos do roteiro. A Comissão avalia o êxito dos marcos com base num vasto leque de critérios, incluindo a completude e a eficiência da implementação, considerações orçamentais, bem como quaisquer impactos ou alterações culturais resultantes da iniciativa. Você revisou marcos perdidos ou insatisfatórios e avaliou possíveis alterações no programa global.
+
+  A organização desenvolve painéis e medições para gerenciamento e equipes responsáveis pelo desenvolvimento de softwares para monitorar a implementação do roadmap. Esses painéis são detalhados o suficiente para identificar projetos e iniciativas individuais e fornecer um entendimento claro de se o programa é bem-sucedido e está de acordo com as necessidades da organização.
+#Type Classification of the Document
+type: Atividade

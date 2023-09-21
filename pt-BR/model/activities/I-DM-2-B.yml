@@ -1,0 +1,29 @@
+#The title of this activity
+title: Definir métricas básicas de defeito
+#Describe the benefit that is achieved by implementing this activity
+benefit: Aprender melhor com defeitos de segurança em sua organização
+#A one sentence description of the activity
+shortDescription: Colete métricas de gerenciamento padronizadas e use-as também para priorização de iniciativas orientadas centralmente.
+#A multi-paragraph description of the activity
+longDescription: |
+  Defina, colete e calcule métricas unificadas em toda a organização. Elas podem incluir:
+
+  * Quantidade total de atividades de verificação e defeitos identificados.
+  * Tipos e severidades de defeitos identificados.
+  * Tempo para detectar e tempo para resolver defeitos.
+  * Windows de exposição de defeitos que estão presentes em sistemas ao vivo.
+  * Número de regressões / vulnerabilidades reabertas.
+  * Cobertura das atividades de verificação de componentes de software específicos.
+  * Quantidade de risco aceito.
+  * Relação de incidentes de segurança causados por defeitos de segurança desconhecidos ou não documentados.
+
+  Gerar um relatório regular (por exemplo, mensal) para um público adequado. Isso normalmente atingiria um público, como gerentes, oficiais de segurança e engenheiros. Use as informações do relatório como uma entrada para sua estratégia de segurança, por exemplo, melhorando treinamentos ou atividades de verificação de segurança.
+
+  Compartilhe os detalhes técnicos mais proeminentes ou interessantes sobre falhas de segurança, incluindo a estratégia de correção para outras equipes, assim que esses defeitos forem corrigidos. . numa reunião regular de compartilhamento. Isso ajudará a dimensionar o efeito da aprendizagem desde defeitos até toda a organização e limitará sua ocorrência no futuro.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Oficial de Segurança
+  - Campeão de Segurança
+  - Gerente
+#Type Classification of the Document
+type: Atividade
