@@ -1,0 +1,15 @@
+#Link to the practice level that this activity belongs to
+level: a11b78917dec4cfdad983cf6d1d17b61
+#The title of this activity
+title: Identifique ferramentas e tecnologias
+#Describe the benefit that is achieved by implementing this activity
+benefit: Transparência das tecnologias que introduzem risco de segurança
+#A one sentence description of the activity
+shortDescription: Elenque tecnologias, estruturas e integrações dentro da solução geral para identificar riscos.
+#A multi-paragraph description of the activity
+longDescription: |
+  As pessoas geralmente seguem o caminho de menor resistência para desenvolver, implantar ou operar uma solução de software. Muitas vezes, novas tecnologias são incluídas quando podem facilitar ou acelerar o esforço ou permitir que a solução seja melhor escalonada. Essas novas tecnologias podem, entretanto, introduzir novos riscos para a organização que você precisa gerenciar.
+
+  Identifique as tecnologias, estruturas, ferramentas e integrações mais importantes sendo usadas para cada aplicação. Use o conhecimento do arquiteto para estudar o ambiente de desenvolvimento e operação, bem como artefatos. Em seguida, avalie-os quanto à qualidade de segurança e levante descobertas importantes a serem gerenciadas.
+#Type Classification of the Document
+type: Atividade
