@@ -1,0 +1,15 @@
+#The title of this activity
+title: Realize avaliações de fornecedores
+#Describe the benefit that is achieved by implementing this activity
+benefit: Transparência das práticas de segurança dos seus fornecedores de software
+#A one sentence description of the activity
+shortDescription: Avalie o fornecedor com base nos requisitos de segurança organizacional.
+#A multi-paragraph description of the activity
+longDescription: |
+  As competências e hábitos de segurança dos fornecedores externos envolvidos no desenvolvimento de seu software podem ter um impacto significativo na postura de segurança do produto final. Conseqüentemente, é importante conhecer e avaliar seus fornecedores nesta frente.
+
+  Faça uma avaliação de fornecedores para entender os pontos fortes e fracos de seus fornecedores. Use uma lista de verificação básica ou conduza entrevistas para revisar suas práticas e entregas típicas. Isso dá uma ideia de como eles se organizam e elementos para avaliar se você precisa tomar medidas adicionais para mitigar riscos potenciais. O ideal é falar com diferentes cargos na organização, ou até mesmo estabelecer uma pequena avaliação de maturidade para esse fim. Fornecedores fortes executarão seu próprio programa de garantia de software e serão capazes de responder a maioria de suas perguntas. Se os fornecedores possuírem fracas competências em segurança de software, discuta com eles como e até que ponto planejam trabalhar nisso e avalie se isso é suficiente para sua organização. Um fornecedor de software pode estar trabalhando em um projeto de baixo risco, mas isso pode mudar.
+
+  É importante que seus fornecedores entendam e se alinhem às tendências de risco e sejam capazes de atender às suas necessidades nessa área. Torne explícito o que você espera deles e discuta isso claramente.
+#Type Classification of the Document
+type: Atividade
