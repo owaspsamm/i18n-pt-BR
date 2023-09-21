@@ -1,0 +1,15 @@
+#The title of this activity
+title: Identifique o apetite de risco da organização
+#Describe the benefit that is achieved by implementing this activity
+benefit: Compreensão comum da posição de segurança da sua organização
+#A one sentence description of the activity
+shortDescription: Identifique os motoristas da organização conforme estejam relacionados à tolerância ao risco da organização.
+#A multi-paragraph description of the activity
+longDescription: |
+  Entendido, com base na exposição a riscos de aplicação, quais as ameaças que existem ou podem existir, bem como a forma como a liderança executiva tolerante é destes riscos. Esse entendimento é um componente essencial para determinar as prioridades de garantia de segurança do software. Para verificar essas ameaças, Entrevistar os proprietários das empresas e as partes interessadas e documentar os condutores específicos das indústrias onde a organização opera, bem como os condutores específicos da organização. As informações coletadas incluem cenários piores que podem afetar a organização, bem como oportunidades onde um ciclo de vida de desenvolvimento de software otimizado e aplicações mais seguras poderiam oferecer uma diferenciadora de mercado ou criar oportunidades adicionais.
+
+  As informações coletadas fornecem uma base para a organização desenvolver e promover seu programa de segurança de aplicativos. Os itens do programa têm prioridade no endereço de ameaças e oportunidades mais importantes para a organização. A linha de base é dividida em vários fatores de risco e motoristas ligados diretamente às prioridades da organização e usada para ajudar a construir um perfil de risco de cada aplicativo desenvolvido sob medida documentando como eles podem afetar a organização se estiverem comprometidos.
+
+  A linha de base e os fatores de risco individuais devem ser publicados e disponibilizados para candidatar equipes de desenvolvimento, para garantir um processo mais transparente de criação de perfis de risco de aplicação e incorporar as prioridades da organização no programa. Adicionalmente, essas metas devem fornecer um conjunto de objetivos que devem ser usados para garantir que todas as melhorias do programa de segurança da aplicação forneçam apoio direto às necessidades atuais e futuras da organização.
+#Type Classification of the Document
+type: Atividade
