@@ -1,0 +1,24 @@
+#The title of this activity
+title: Rastrear defeitos de segurança centralmente
+#Describe the benefit that is achieved by implementing this activity
+benefit: Transparência de defeitos de segurança conhecidos afetando aplicações específicas
+#A one sentence description of the activity
+shortDescription: Introduza um rastreamento estruturado de defeitos de segurança e toma decisões experientes com base nestas informações.
+#A multi-paragraph description of the activity
+longDescription: |
+  Introduza uma definição/compreensão comum de um defeito de segurança e define as formas mais comuns de identificá-las. Estes normalmente incluem, mas não estão limitados a:
+
+  * Avaliação de ameaças
+  * Testes de Penetração
+  * Saída de ferramentas de verificação de análises estáticas e dinâmicas
+  * Processos de divulgação responsável ou recompensas de bugs
+
+  Apoie uma cultura de transparência e evite culpar qualquer equipe por introduzir ou identificar defeitos de segurança. Registrar e rastrear todos os defeitos de segurança em um local definido. Este local não precisa necessariamente centralizar para toda a organização, No entanto, certifique-se de que você é capaz de obter uma visão geral de todos os defeitos que afetam um aplicativo em particular em qualquer momento. Defina e aplique as regras de acesso para os defeitos de segurança rastreados para mitigar o risco de fuga e abuso destas informações.
+
+  Introduza pelo menos a classificação qualitativa rudimentar dos defeitos de segurança para que você possa priorizar os esforços de correção em conformidade. Esforce-se por limitar a duplicação de informação e a presença de falsos positivos para aumentar a credibilidade do processo.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Engenheiro de Segurança
+  - Oficial de Segurança
+#Type Classification of the Document
+type: Atividade
