@@ -1,0 +1,15 @@
+#The title of this activity
+title: Otimizar modelagem de ameaças
+#Describe the benefit that is achieved by implementing this activity
+benefit: Garantia da melhoria contínua das atividades de modelagem de ameaças
+#A one sentence description of the activity
+shortDescription: Otimização contínua e automação da sua metodologia de modelagem de ameaças.
+#A multi-paragraph description of the activity
+longDescription: |
+  O modelador de ameaças está integrado ao seu SDLC e tornou-se parte da cultura de segurança do desenvolvedor. Padrões de risco reutilizáveis, que incluem bibliotecas de ameaças relacionadas, falhas de design e atenuações de segurança, são criados e melhorados, com base nos modelos de ameaça da organização. Você regularmente (e.., anualmente) revise os modelos de ameaças existentes para verificar se nenhuma nova ameaça é relevante para seus aplicativos.
+
+  Você otimiza sua metodologia de modelagem de ameaças e captura as lições aprendidas com modelos de ameaça e use-as para melhorar sua metodologia de modelagem de ameaças. Você revisa as categorias de ameaça relevantes para a sua organização e atualiza a sua metodologia adequadamente. De vez em quando, você avalia de forma independente a qualidade de seus modelos de ameaça.
+
+  Você automatiza partes do seu processo de modelagem de ameaças com ferramentas de modelagem de ameaças. Você integra suas ferramentas de modelagem de ameaças com outras ferramentas de segurança, como ferramentas de verificação de segurança e ferramentas de rastreamento de riscos. Você considera a "modelagem de ameaças como um código" práticas para integrar artefatos de modelagem de ameaças com o código do aplicativo.
+#Type Classification of the Document
+type: Atividade
