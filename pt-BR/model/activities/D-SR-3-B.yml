@@ -1,0 +1,13 @@
+#The title of this activity
+title: Alinhe a metodologia de segurança com os fornecedores
+#Describe the benefit that is achieved by implementing this activity
+benefit: Alinhamento das práticas de desenvolvimento de software com os fornecedores para limitar os riscos de segurança
+#A one sentence description of the activity
+shortDescription: Garanta a cobertura da segurança adequada para fornecedores externos, provendo-lhes objetivos claros.
+#A multi-paragraph description of the activity
+longDescription: |
+  A melhor maneira de minimizar o risco de problemas no software é alinhar ao máximo e integrar de perto as diferentes partes. Do ponto de vista do processo, isso significa usar paradigmas de desenvolvimento semelhantes e introduzir marcos regulares para garantir o alinhamento adequado e o progresso qualitativo. Do ponto de vista das ferramentas, isso pode significar o uso de ambientes semelhantes de construção, verificação, implantação e compartilhamento de outras ferramentas de suporte (por exemplo, requisitos, ferramentas de arquitetura ou repositórios de código).
+
+  No caso dos fornecedores não cumprirem os objetivos que você definiu, implemente controles de compensação para que, de maneira geral, você alcance seus objetivos. Execute atividades extras (por exemplo, modelagem de ameaças antes de iniciar o ciclo de implementação real) ou implemente ferramentas extras (por exemplo, análise de bibliotecas de terceiros na entrada da solução). Quanto mais os fornecedores se desviarem de seus requisitos, mais trabalho será necessário para compensar.
+#Type Classification of the Document
+type: Atividade
