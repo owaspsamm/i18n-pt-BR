@@ -1,0 +1,15 @@
+#The title of this activity
+title: Treinar todos os participantes pela sensibilização
+#Describe the benefit that is achieved by implementing this activity
+benefit: Conhecimento básico de segurança para todos os funcionários relevantes
+#A one sentence description of the activity
+shortDescription: Fornecer treinamento de conhecimento de segurança para todos os funcionários envolvidos no desenvolvimento de software
+#A multi-paragraph description of the activity
+longDescription: |
+  Realizar a formação de sensibilização para a segurança para todos os papéis que estão actualmente envolvidos na gestão, desenvolvimento, teste ou auditoria do software. O objectivo é aumentar a consciência das ameaças e riscos de segurança, bem como das melhores práticas em matéria de segurança e dos princípios de concepção de software seguro. Desenvolva o treinamento internamente ou adquira isso externamente. Idealmente, ministrar treinamento em pessoa para que os participantes possam ter discussões como equipe, mas formação em computador (CBT) também é uma opção.
+
+  O conteúdo do curso deve incluir uma série de tópicos relevantes para a segurança e privacidade dos aplicativos, mantendo-se acessível a um público não técnico. Conceitos adequados são princípios de design seguros, incluindo Privilégio Menor, Defense-in-Depth, Segurança de Falhas (Seguro), Mediação, Gerenciamento de Sessão, Open Design e Aceitação Psicológica. Além disso, o treinamento deve incluir referências a normas, políticas e procedimentos definidos para melhorar a segurança da aplicação a nível da organização. As vulnerabilidades Top 10 da OWASP devem ser cobertas em um nível alto.
+
+  O treinamento é obrigatório para todos os funcionários e empreiteiros envolvidos no desenvolvimento de software e inclui uma assinatura auditável para demonstrar a conformidade. Considere incorporar formas inovadoras de entrega (como a gamificação) para maximizar sua eficácia e combater a desensitização.
+#Type Classification of the Document
+type: Atividade
