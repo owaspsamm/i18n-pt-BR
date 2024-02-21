@@ -1,2 +1,28 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description - Patching and Updating, Level 1
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 1a7ad26d9e48411e95a63be79e1b90ea
+#Link to the practice level that this activity belongs to
+level: 8cb942eff46d41f38e6edc11849744a6
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 0721d5bd5d67479991b5b52f33dcd7b1
+#The title of this activity
+title: Praticar o máximo esforço para correções
+#Describe the benefit that is achieved by implementing this activity
+benefit: Mitigação de problemas conhecidos em componentes de terceiros
+#A one sentence description of the activity
+shortDescription: Realizar o máximo esforço para correção de sistemas e componentes da aplicação.
+#A multi-paragraph description of the activity
+longDescription: |
+  Identificar aplicações e componentes de terceiros que precisam ser atualizados ou corrigidos, incluindo os relacionados a sistemas operacionais, servidores de aplicação e bibliotecas de terceiros.
+
+  Nesse nível de maturidade, suas atividades de identificação e correção são o máximo esforço e _ad hoc_, sem um processo de monitoramento das versões dos componentes, de atualizações disponíveis e do status das correções. No entanto, requisitos de alto nível para atividades de correção (por exemplo: testar correções antes de colocá-las em produção) devem existir, e o time do produto é responsável pelo máximo esforço na conformidade desses requisitos.
+
+  Com excessão das correções críticas (por exemplo: um exploit para um componente de terceiro fora publicado recentemente), os times devem utilizar a janela estabelecida para manutenção para aplicar tais correções. Para software desenvolvidos pela organização, correções são entregues para clientes e soluções gerenciadas pela organização como parte da publicação de novas versões.
+
+  Os times compartilham a atenção a correções disponíveis, e suas experiências com correções, de forma _ad hoc_. Garanta que os times possam determinar as versões de todos os componentes em uso, para avaliar quais produtos são afetados por uma vulnerabilidade de segurança quando esta for divulgada. No entanto, o processo de gerar e manter a lista de componentes pode exigir um esforço significativo do analista.
 #Type Classification of the Document
 type: Atividade
