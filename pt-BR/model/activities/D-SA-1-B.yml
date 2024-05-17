@@ -1,5 +1,14 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 79754453c74b4143b20a57d0efdaab56
 #Link to the practice level that this activity belongs to
 level: a11b78917dec4cfdad983cf6d1d17b61
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 27cdd2a336a44e56a42632c7a78fcf4f
 #The title of this activity
 title: Identifique ferramentas e tecnologias
 #Describe the benefit that is achieved by implementing this activity
@@ -11,5 +20,8 @@ longDescription: |
   As pessoas geralmente seguem o caminho de menor resistência para desenvolver, implantar ou operar uma solução de software. Muitas vezes, novas tecnologias são incluídas quando podem facilitar ou acelerar o esforço ou permitir que a solução seja melhor escalonada. Essas novas tecnologias podem, entretanto, introduzir novos riscos para a organização que você precisa gerenciar.
 
   Identifique as tecnologias, estruturas, ferramentas e integrações mais importantes sendo usadas para cada aplicação. Use o conhecimento do arquiteto para estudar o ambiente de desenvolvimento e operação, bem como artefatos. Em seguida, avalie-os quanto à qualidade de segurança e levante descobertas importantes a serem gerenciadas.
+#References to other activities that are prerequesites to implement this one.
+relatedActivities:
+  - e17d573510904f65a1fe6040b56ad0b1
 #Type Classification of the Document
 type: Atividade
