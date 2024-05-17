@@ -4,5 +4,22 @@
 #===========================================================
 #Link to the function, using its unique identifier
 function: fa340fa1816244d79f369ae82e998368
+#Official name of this practice
+name: Teste de Segurança
+#Abbreviation of this practice
+shortName: TS
+#A one sentence description of the security practice
+shortDescription: Esta prática concentra-se na detecção e resolução de problemas básicos de segurança por meio da automação, permitindo que os testes manuais se concentrem em vetores de ataque mais complexos.
+#A multi-paragraph description of the security practice
+longDescription: |
+  A prática de Testes de Segurança (TS) aproveita o fato de que, embora os testes de segurança automatizados sejam rápidos e se adaptem bem a vários aplicativos, testes aprofundados baseados em um bom conhecimento de um aplicativo e de sua lógica de negócios muitas vezes só são possíveis por meio de tesste especificos de segurança manuais. Cada fluxo, portanto, tem uma abordagem em sua essência.
+
+  O primeiro fluxo concentra-se no estabelecimento de uma linha de base de segurança comum para detectar automaticamente os chamados “frutos mais fáceis de alcançar”. Personalize progressivamente os testes automatizados para cada aplicação e aumente sua frequência de execução para detectar mais bugs e regressões mais cedo, o mais próximo possível de seu início. Quanto mais bugs os processos automatizados puderem detectar, mais tempo os especialistas terão para usar seu conhecimento e criatividade para se concentrar em vetores de ataque mais complexos e garantir testes aprofundados de aplicativos no segundo fluxo. Como a revisão manual é lenta e difícil de escalar, os revisores priorizam os componentes de teste com base em seus riscos, alterações relevantes recentes ou lançamentos importantes futuros. As organizações também podem acessar especialistas externos participando de programas de recompensa por bugs, por exemplo.
+
+  Ao contrário da prática de testes orientados por requisitos, que se concentra em verificar se as aplicações implementam corretamente os seus requisitos, o objetivo desta prática é descobrir fraquezas técnicas e de lógica de negócios na aplicação e torná-las visíveis para a gestão e as partes interessadas do negócio, independentemente dos requisitos.
 #The relative order of this practice in the business function
 order: 3
+#Indication of progress to keep track of overall status
+progress: 50
+#Type Classification of the Document
+type: Prática
