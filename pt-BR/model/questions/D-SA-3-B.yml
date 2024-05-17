@@ -1,6 +1,13 @@
 #Link to the answer set that contains the potential answers for this question
 answerset: f77bd45a28c8493dbba6e53b2eafa20f
+#One-sentence description of the criterium
+text: Você impõe o uso de tecnologias recomendadas dentro da organização?
 #Order of this question for the activity (in case there would be multiple)
 order: 1
+#Qualifying Criterion
+quality:
+  - Você monitora aplicativos regularmente para o uso correto das tecnologias recomendadas
+  - Você resolve violações contra a lista conforme as políticas organizacionais
+  - Você toma medidas se o número de violações estiver fora dos objetivos anuais
 #Type Classification of the Document
 type: Questão
