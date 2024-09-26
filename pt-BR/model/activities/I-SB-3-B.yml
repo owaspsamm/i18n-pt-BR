@@ -1,0 +1,11 @@
+#Describe the benefit that is achieved by implementing this activity
+benefit: Tratamento de problemas de segurança em dependências comparáveis às do seu próprio código
+#A one sentence description of the activity
+shortDescription: Analise as dependências usadas para problemas de segurança comparáveis ao seu próprio código.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Engenheiro de Segurança
+  - Arquiteto
+  - Desenvolvedor
+#Type Classification of the Document
+type: Atividade

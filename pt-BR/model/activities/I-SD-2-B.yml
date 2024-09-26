@@ -1,0 +1,7 @@
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Administradores
+  - Desenvolvedor
+  - Engenheiro de Segurança
+#Type Classification of the Document
+type: Atividade

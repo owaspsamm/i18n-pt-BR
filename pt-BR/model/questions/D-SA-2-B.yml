@@ -1,0 +1,12 @@
+#One-sentence description of the criterium
+text: Você tem uma lista de tecnologias recomendadas para a organização?
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - A lista é baseada em tecnologias usadas no portfólio de software
+  - Arquitetos principais e desenvolvedores revisam e aprovam a lista
+  - Você compartilha a lista em toda a organização
+  - Você revisa e atualiza a lista pelo menos anualmente
+#Type Classification of the Document
+type: Questão

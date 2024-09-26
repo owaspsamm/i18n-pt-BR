@@ -1,0 +1,25 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 253b012094cf4e0988e08fd22609227d
+#The title of this activity
+title: Forneça soluções de segurança preferidas
+#Describe the benefit that is achieved by implementing this activity
+benefit: Serviços de segurança reutilizáveis disponíveis para equipes de produtos
+#A one sentence description of the activity
+shortDescription: Estabeleça padrões de design comuns e soluções de segurança para adoção.
+#A multi-paragraph description of the activity
+longDescription: |
+  Identifique a infraestrutura ou serviços compartilhados com funcionalidade de segurança. Isso geralmente inclui serviços de logon único, controle de acesso ou serviços de direitos, serviços de registro e monitoramento ou firewall em nível de aplicativo. Colete e avalie os sistemas reutilizáveis para montar uma lista desses recursos e categorizá-los pelo mecanismo de segurança que eles cumprem. Considere cada recurso em relação ao porquê uma equipe de produtos gostaria de se integrar a ele, ou seja, os benefícios de usar o recurso compartilhado.
+
+  Se existirem vários recursos em cada categoria, selecione e padronize em um ou mais serviços compartilhados por categoria. Como o futuro desenvolvimento de software dependerá desses serviços, analise cada um deles cuidadosamente para garantir a compreensão da postura de segurança básica. Para cada serviço selecionado, crie orientações de design para que as equipes de produtos entendam como se integrar ao sistema. Disponibilize a orientação por meio de treinamento, orientação, diretrizes e padrões.
+
+  Estabeleça um conjunto de práticas recomendadas que representam métodos sólidos de implementação de funcionalidade de segurança. Você pode pesquisá-los ou comprá-los, e muitas vezes é mais eficaz se você customizá-los para que eles sejam mais aderentes à sua organização. Os padrões de exemplo incluem um subsistema de logon único, um modelo de delegação entre níveis, um modelo de autorização de separação de tarefas, um padrão de autenticação centralizado, etc.
+
+  Esses padrões podem se originar de projetos ou aplicativos específicos, mas certifique-se de compartilhá-los entre as diferentes equipes da organização para a aplicação eficiente e consistente de soluções de segurança apropriadas.
+
+  Para aumentar a adoção desses padrões, vincule-os aos serviços de segurança compartilhados ou implemente-os em soluções componentes reais que possam ser facilmente integradas em um aplicativo durante o desenvolvimento. Apoie as tecnologias-chave dentro da organização, por exemplo no caso de diferentes stacks de desenvolvimento. Trate essas soluções como aplicativos reais com suporte adequado em caso de dúvidas ou problemas.
+#Type Classification of the Document
+type: Atividade

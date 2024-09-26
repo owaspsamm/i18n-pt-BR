@@ -1,0 +1,13 @@
+#The title of this activity
+title: Avalie a arquitetura de aplicações
+#Describe the benefit that is achieved by implementing this activity
+benefit: Compreensão de arquitetura de alto nível e medidas de segurança razoáveis
+#A one sentence description of the activity
+shortDescription: Identifique componentes de arquitetura de aplicações e infraestrutura e os revise para provisionamentos básicos de segurança
+#A multi-paragraph description of the activity
+longDescription: |
+  Crie uma visão da arquitetura geral e a analise para prover corretamente mecanismos de segurança como autenticação, autorização, gerenciamento de usuários e direitos ou privilégios, comunicação segura, proteção de dados, gerenciamento de chaves e gerenciamento de logs. Considere também o suporte para privacidade. Faça isso com base em artefatos de projeto como documentos de arquitetura e/ou de design ou entrevistas com os donos da empresa e a equipe técnica. Considere, também, os componentes da infraestrutura - todos os sistemas, componentes e bibliotecas (incluindo SDKs) que não são específicos daquela aplicação, mas que fornecem suporte direto para o uso ou gerenciamento de aplicações na organização.
+
+  Note qualquer funcionalidade relacionada a segurança na arquitetura e revise seu provisionamento. Faça isso de maneira ad-hoc, do ponto de vista de usuários anônimos, usuários autorizados e, ainda, papéis e perfis específicos da aplicação.
+#Type Classification of the Document
+type: Atividade

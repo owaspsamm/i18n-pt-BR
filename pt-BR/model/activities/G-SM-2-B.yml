@@ -1,0 +1,15 @@
+#The title of this activity
+title: Definir KPIs estratégicos
+#Describe the benefit that is achieved by implementing this activity
+benefit: Transparência sobre o desempenho do seu programa AppSec
+#A one sentence description of the activity
+shortDescription: Defina metas e os KPIs para medir a eficácia do programa.
+#A multi-paragraph description of the activity
+longDescription: |
+  Uma vez que a organização tiver definido suas métricas de segurança de aplicações, colete informações suficientes para estabelecer metas realistas. Teste métricas identificadas para garantir que você pode coletar dados de forma consistente e eficiente durante um curto período. Após o período de testes inicial, a organização deve ter informações suficientes para se comprometer com metas e objetivos expressos através de indicadores chave de desempenho (KPIs).
+
+  Embora várias medidas sejam úteis para monitorar o programa de segurança da informação e sua eficácia, os KPIs são compostos pelas métricas mais significativas e eficazes. Mire para remover a volatilidade comum em ambientes de desenvolvimento de aplicativos da KPIs para reduzir chances de números desfavoráveis resultantes de medidas individuais temporárias ou enganosas. KPIs de base sobre métricas consideradas valiosas não só para os profissionais de segurança da informação, mas também para os indivíduos responsáveis pelo sucesso global da candidatura, e a liderança da organização. Ver KPIs como indicadores definitivos do sucesso de todo o programa e considerá-los acionáveis.
+
+  Documenta totalmente os KPIs e distribua-os para as equipes que contribuem para o sucesso do programa, bem como para a liderança da organização. O ideal é incluir uma breve explicação das fontes de informação para cada KPI e o significado se os números são altos ou baixos. Inclua metas a curto e longo prazo e distâncias para medidas inaceitáveis que exijam uma intervenção imediata. Compartilhe planos de ação com equipes de desenvolvimento de segurança de aplicativos e de desenvolvimento de aplicativos para garantir total transparência na compreensão dos objetivos e metas da organização.
+#Type Classification of the Document
+type: Atividade

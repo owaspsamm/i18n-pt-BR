@@ -1,0 +1,15 @@
+#The title of this activity
+title: Identifique os requisitos de segurança
+#Describe the benefit that is achieved by implementing this activity
+benefit: Compreensão dos principais requisitos de segurança durante o desenvolvimento
+#A one sentence description of the activity
+shortDescription: Os objetivos de segurança de aplicativos de alto nível são mapeados para requisitos funcionais.
+#A multi-paragraph description of the activity
+longDescription: |
+  Faça uma revisão dos requisitos funcionais do projeto de software. Identifique os requisitos de segurança relevantes (ou seja, expectativas) para esta funcionalidade, arrazoando sobre a confidencialidade, integridade ou disponibilidade desejada do serviço ou dados oferecidos pelo projeto de software. Os requisitos estabelecem o objetivo (por exemplo, "os dados pessoais para o processo de registro devem ser transferidos e armazenados com segurança"), mas não a medida real para alcançar tal objetivo (por exemplo, "usar TLSv1.2 para transferência segura"). 
+
+  Ao mesmo tempo, analise a funcionalidade da perspectiva do invasor para entender como ela pode ser mal utilizada. Desta forma, você pode identificar requisitos extra de proteção para o projeto de software em questão.
+
+  Os objetivos de segurança podem estar relacionados à funcionalidade de segurança específica que você precisa adicionar ao aplicativo (por exemplo, "Identificar o usuário do aplicativo em todos os momentos") ou à qualidade e ao comportamento geral do aplicativo (por exemplo, “Certifique-se de que os dados pessoais sejam protegidos adequadamente em trânsito”), o que não leva necessariamente a uma nova funcionalidade. Siga as boas práticas para escrever os requisitos de segurança. Torne-os específicos, mensuráveis, acionáveis, relevantes e com prazo determinado (SMART). Cuidado ao adicionar requisitos de uso muito geral para não se relacionarem com o aplicativo em questão (por exemplo, O aplicativo deve proteger contra os 10 principais OWASP). Embora possam ser verdadeiros, eles não agregam valor à discussão.
+#Type Classification of the Document
+type: Atividade

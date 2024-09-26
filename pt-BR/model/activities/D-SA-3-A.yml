@@ -1,0 +1,21 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 253b012094cf4e0988e08fd22609227d
+#The title of this activity
+title: Construa arquiteturas de referência
+#Describe the benefit that is achieved by implementing this activity
+benefit: Transparência total de qualidade e usabilidade de no fornecimento centralizado de soluções de segurança
+#A one sentence description of the activity
+shortDescription: As arquiteturas de referência são utilizadas e continuamente avaliadas para adoção e adequação.
+#A multi-paragraph description of the activity
+longDescription: |
+  Crie um conjunto de arquiteturas de referência que selecionem e combinem um conjunto verificado de componentes de segurança para garantir um projeto adequado de segurança. As plataformas de referência têm vantagens em termos de encurtamento de auditorias e revisões relacionadas à segurança, aumentando a eficiência no desenvolvimento e reduzindo a sobrecarga de manutenção. Mantenha e aprimore continuamente a arquitetura de referência com base em novas ideias na organização e na comunidade. Faça com que arquitetos, desenvolvedores seniores e outras partes técnicas interessadas participem do projeto e da criação de plataformas de referência. Após a criação, as equipes manterão continuamente o suporte e as atualizações.
+
+  As arquiteturas de referência podem se materializar em um conjunto de bibliotecas de software e ferramentas sobre as quais as equipes de projeto constroem seu software. Eles servem como um ponto de partida que padroniza a abordagem de segurança orientada por configurações e segurança orientada por padrões. Você pode inicializar a estrutura selecionando um projeto específico no início do ciclo de vida e fazendo com que uma equipe experiente em segurança trabalhe com eles para construir a funcionalidade de segurança de uma forma genérica para que possa ser extraída do projeto e usada em outro lugar na organização.
+
+  Monitore as fraquezas ou lacunas no conjunto de soluções de segurança disponíveis em sua organização continuamente no contexto de discussões sobre arquitetura, desenvolvimento ou operações. Isso serve como uma entrada para melhorar a adequação e a eficácia das arquiteturas de referência que você tem no lugar.
+#Type Classification of the Document
+type: Atividade

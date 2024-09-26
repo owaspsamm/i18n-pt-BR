@@ -1,0 +1,15 @@
+#The title of this activity
+title: Promova ferramentas e tecnologias preferidas
+#Describe the benefit that is achieved by implementing this activity
+benefit: Tecnologias com nível de segurança adequado disponíveis para equipes de produtos
+#A one sentence description of the activity
+shortDescription: Padronize tecnologias e estruturas a serem usadas nas diferentes aplicações
+#A multi-paragraph description of the activity
+longDescription: |
+  Identifique tecnologias, frameworks e ferramentas comumente usadas em projetos de software na organização, por meio das quais você se concentra em capturar as tecnologias de alto nível.
+
+  Crie uma lista e compartilhe-a com a organização de desenvolvimento como tecnologias recomendadas. Ao selecioná-las, considere o histórico de incidentes, registro de resposta a vulnerabilidades, adequação das funcionalidades para a organização, complexidade excessiva no uso do componente de terceiros e conhecimento suficiente dentro da organização.
+
+  Desenvolvedores e arquitetos sênior criam essa lista, incluindo contribuições de gerentes e auditores de segurança. Compartilhe esta lista de componentes recomendados com a organização de desenvolvimento. Em última análise, o objetivo é fornecer padrões bem conhecidos para as equipes de projeto. Realize uma revisão periódica dessas tecnologias para segurança e adequação.
+#Type Classification of the Document
+type: Atividade

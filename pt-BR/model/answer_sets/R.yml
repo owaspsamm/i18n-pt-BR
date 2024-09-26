@@ -1,0 +1,26 @@
+#Different answers with their properties. We use 4 levels or answers
+values:
+  - 
+    #lowest level
+    text: false
+    value: 0
+    weight: 1
+    order: 0
+  - 
+    #second level
+    text: Sim, esporadicamente
+    value: 0.25
+    weight: 1
+    order: 1
+  - 
+    value: 0.5
+    weight: 1
+    order: 2
+  - 
+    #highest level
+    text: Sim, no mínimo anualmente
+    value: 1
+    weight: 1
+    order: 3
+#Type Classification of the Document
+type: AnswerSet
