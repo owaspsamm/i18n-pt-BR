@@ -1,0 +1,15 @@
+#The title of this activity
+title: Medir a conformidade com os requisitos externos
+#Describe the benefit that is achieved by implementing this activity
+benefit: Entendimento da conformidade da sua organização com políticas e padrões
+#A one sentence description of the activity
+shortDescription: Medir e informar sobre o cumprimento do aplicativo individual com os requisitos de terceiros.
+#A multi-paragraph description of the activity
+longDescription: |
+  Desenvolver um programa para medir e reportar sobre a situação de conformidade entre diferentes aplicações. Requisitos de aplicação e scripts de teste ajudam a determinar o status da conformidade. A automação de testes de alavancagem para detectar prontamente regressões de conformidade em aplicativos atualizados frequentemente e garantir que a conformidade é mantida por meio das diferentes versões do aplicativo. Sempre que não é possível realizar testes automatizados, controle de qualidade, auditoria interna ou equipes de segurança da informação avaliam conformidade periodicamente por meio de uma combinação de testes manuais e entrevistas.
+
+  Embora a conformidade total seja sempre o objetivo final, inclua ações de correção de rastreamento e atualizações periódicas no programa. Revise periodicamente as atividades de reparação de conformidade para verificar os progressos das equipes e que as estratégias de reparação serão eficazes na obtenção do cumprimento. Para melhorar ainda mais o processo, desenvolva uma série de relatórios padrão e placares de conformidade. Essas equipes ajudam individualmente a compreender o actual estado de conformidade e a organização administra mais eficazmente a assistência para colmatar as lacunas de conformidade.
+
+  Reveja as lacunas de conformidade que exigem despesas significativas ou desenvolvimento com os especialistas da matéria e compare-os com o custo de reduzir a funcionalidade do aplicativo, minimizando o âmbito ou eliminando o requisito de conformidade. As lacunas de conformidade com o longo prazo exigem aprovação da gestão e uma aceitação formal dos riscos de conformidade, para que recebam da liderança da organização a atenção e o escrutínio apropriados.
+#Type Classification of the Document
+type: Atividade

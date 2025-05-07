@@ -1,0 +1,15 @@
+#The title of this activity
+title: Identifique campeões de segurança
+#Describe the benefit that is achieved by implementing this activity
+benefit: Integração básica da segurança na organização de desenvolvimento
+#A one sentence description of the activity
+shortDescription: Identifique um "Campeão de Segurança" dentro de cada equipe de desenvolvimento.
+#A multi-paragraph description of the activity
+longDescription: |
+  Implementar um programa onde cada equipe de desenvolvimento de software tem um membro considerado um "Campeão de Segurança" que estabelece a ligação entre a Segurança da Informação e os desenvolvedores. Dependendo do tamanho e da estrutura da equipe, o "Campeão de Segurança" pode ser um desenvolvedor de software, testador ou um gerente de produto. O "Campeão de Segurança" tem um número definido de horas por semana para atividades relacionadas à Segurança da Informação. Participam em briefings periódicos para aumentar a sensibilização e os conhecimentos especializados sobre as diferentes disciplinas de segurança. Os "Campeões de Segurança" têm treinamento adicional para ajudar a desenvolver essas funções como especialistas em assuntos de segurança do software. Talvez você precise personalizar a forma como cria e apoia "Campeões de Segurança" por razões culturais.
+
+  Os objetivos da posição são aumentar a eficácia e eficiência da segurança e conformidade do aplicativo e reforçar a relação entre as várias equipes e a Segurança da Informação. Para alcançar esses objetivos, os "Campeões de Segurança" auxiliam na pesquisa, verificação e priorização de falhas de software relacionadas a segurança e conformidade. Eles estão envolvidos em todas as Avaliações de Risco, Avaliações de Ameaças e Avaliações Arquitetônicas para ajudar a identificar oportunidades para remediar defeitos de segurança tornando a arquitetura da aplicação mais resiliente e reduzindo a superfície de ameaça de ataque.
+
+  Além de auxiliar a Segurança da Informação, Os "Campeões de Segurança" fornecem revisões periódicas de todas as questões relacionadas com a segurança da equipe do projeto para que todos estejam cientes dos problemas e de todos os esforços de correção atuais e futuros. Essas análises são aproveitadas para ajudar as soluções mais complexas para problemas mais complexos, envolvendo toda a equipe de desenvolvimento.
+#Type Classification of the Document
+type: Atividade

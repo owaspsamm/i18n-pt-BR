@@ -1,0 +1,16 @@
+#Link to the answer set that contains the potential answers for this question
+answerset: f77bd45a28c8493dbba6e53b2eafa20f
+#One-sentence description of the criterium
+text: Você baseia seu design em arquiteturas de referência disponíveis?
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - 
+    - partes interessadas
+  - 
+    - prática
+  - 
+    - arquitetura
+#Type Classification of the Document
+type: Questão

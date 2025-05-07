@@ -1,0 +1,26 @@
+#The title of this activity
+title: Definir métricas básicas de segurança
+#Describe the benefit that is achieved by implementing this activity
+benefit: Informações básicas sobre a eficácia e eficiência do seu programa AppSec
+#A one sentence description of the activity
+shortDescription: Defina métricas com a visão da eficácia e eficiência do Programa de Segurança de Aplicações.
+#A multi-paragraph description of the activity
+longDescription: |
+  Defina e avalie as métricas de documentos para avaliar a eficácia e eficiência do programa de segurança da aplicação. Desta forma, as melhorias são mensuráveis e você pode usá-las para garantir apoio e financiamento futuros para o programa. Considerando a natureza dinâmica da maioria dos ambientes de desenvolvimento, As métricas devem ser compostas por medidas nas seguintes categorias
+
+  * métricas `Effort` medem o esforço gasto em segurança. Por exemplo, horas de treinamento, tempo gasto realizando análises de código e número de aplicativos escaneados para obter vulnerabilidades.
+  * métricas `Result` medem os resultados dos esforços de segurança. Exemplos incluem o número de patches pendentes com defeitos de segurança e o número de incidentes de segurança que envolvem vulnerabilidades de aplicações.
+  * métricas `Ambiente` medem o ambiente onde os esforços de segurança ocorrem. Exemplos incluem o número de aplicações ou linhas de código como uma medida de dificuldade ou complexidade.
+
+  Cada métrica por si só é útil para um propósito específico, mas uma combinação de duas ou três métricas juntos ajuda a explicar espinhos nas tendências das métricas. Por exemplo, um pico em um número total de vulnerabilidades pode ser causado pela organização em integração de várias novas aplicações que não foram previamente expostas aos mecanismos de segurança implementados do aplicativo. Alternativamente, um aumento nas métricas do ambiente sem um aumento correspondente no esforço ou no resultado poderia ser um indicador de um programa de segurança maduro e eficiente.
+
+  Ao identificar métricas, É sempre recomendável manter as métricas que atendem a vários critérios
+
+  * Medidas consistentemente
+  * Barato para coletar
+  * Expresso como um número cardeal ou como uma porcentagem
+  * Expresso como uma unidade de medida
+
+  métricas do documento e incluem descrições dos melhores e mais eficientes métodos de coleta de dados bem como métodos recomendados para combinar medidas individuais em métricas significativas. Por exemplo, um número de aplicações e um número total de defeitos em todas as aplicações podem não ser úteis sozinhos, mas quando combinados como uma série de defeitos de alta gravidade pendentes por aplicação, eles oferecem uma métrica mais relevante.
+#Type Classification of the Document
+type: Atividade

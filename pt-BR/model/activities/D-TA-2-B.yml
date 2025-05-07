@@ -1,0 +1,17 @@
+#The title of this activity
+title: Normalização e modelagem de ameaça de escala
+#Describe the benefit that is achieved by implementing this activity
+benefit: Expectativas claras da qualidade das atividades de modelagem de ameaças
+#A one sentence description of the activity
+shortDescription: Normalize o treinamento, processos e ferramentas de modelagem de ameaças para escala em toda a organização.
+#A multi-paragraph description of the activity
+longDescription: |
+  Use uma metodologia padronizada de modelagem de ameaças para a sua organização e alinhe-a nos níveis de risco do seu aplicativo. Pense em maneiras de apoiar o dimensionamento da modelagem de ameaças por toda a organização.
+
+  Treine seus arquitetos, campeões de segurança e outros interessados em como fazer a modelagem prática de ameaças. O modelador de ameaças requer compreensão, livros de reprodução claros e modelos, exemplos específicos da organização e experiência, que é difícil de automatizar.
+
+  Sua metodologia de modelagem de ameaças inclui pelo menos diagrama, identificação de ameaças, mitigação de falhas e como validar seus artefatos de modelo de ameaça. Seu diagrama modelo de ameaça permite uma compreensão detalhada do ambiente e da mecânica da aplicação. Você descobre ameaças ao seu aplicativo com listas de verificação, como STRIDE ou mais ameaças específicas para a organização. Para falhas de design identificadas (classificadas de acordo com o risco da sua organização), você adiciona controles mitigadores para apoiar as partes interessadas em lidar com ameaças específicas. Defina o que desencadeia a atualização de um modelo de ameaça, por exemplo, uma mudança de tecnologia ou a implantação de uma aplicação em um novo ambiente.
+
+  Alimente a saída da modelagem de ameaças para o processo de gerenciamento de defeitos para um acompanhamento adequado. Capture os artefatos de modelagem ameaçadores com ferramentas que são usadas pelas suas equipes de aplicativos.
+#Type Classification of the Document
+type: Atividade

@@ -1,0 +1,23 @@
+#The title of this activity
+title: Identificar as dependências de aplicação
+#Describe the benefit that is achieved by implementing this activity
+benefit: Informações disponíveis sobre problemas de segurança conhecidos em dependências
+#A multi-paragraph description of the activity
+longDescription: |
+  Manter um registro de todas as dependências usadas no ambiente de produção. Isto muitas vezes é conhecido como Lista de Materiais (BOM). Considere que diferentes componentes da aplicação podem possuir dependências diferentes. Por exemplo, se o pacote de software é uma aplicação web, deve ser considerado tanto o código da aplicação do lado do servidor quanto scripts do lado do cliente. Ao construir estes registros, considere os vários locais onde as dependências possam estar, tais como arquivos de configuração, diretório do projeto, repositório usado pela ferramenta de gerenciamento de pacotes ou o código fonte (por exemplo: através de uma IDE que suporte listar dependências).
+
+  Reúna as seguintes informações sobre cada dependência&#58;
+
+  * Onde esta é usada ou referenciada
+  * Versão usada
+  * Licença
+  * Informações de origem (link para o repositório, nome do autor, etc.)
+  * Suporte e status de manutenção da dependência
+
+  Verifique os registros para descobrir quaisquer dependências com vulnerabilidades conhecidas e atualize ou substitua as mesmas de acordo.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Engenheiro de Segurança
+  - Desenvolvedor
+#Type Classification of the Document
+type: Atividade

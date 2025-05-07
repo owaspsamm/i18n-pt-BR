@@ -1,0 +1,19 @@
+#The title of this activity
+title: Avalie e acompanhe os defeitos de segurança
+#Describe the benefit that is achieved by implementing this activity
+benefit: Classificação consistente de defeitos de segurança com expectativas claras de seu manuseio
+#A one sentence description of the activity
+shortDescription: Avalie todos os defeitos de segurança sobre toda a organização de forma consistente e defina SLAs para classes de gravidade específicas.
+#A multi-paragraph description of the activity
+longDescription: |
+  Apresente e aplique uma metodologia de classificação bem definida para seus defeitos de segurança de forma consistente em toda a organização, baseado na probabilidade e no impacto esperado do defeito que está a ser explorado. Isso permitirá que você identifique aplicativos que requerem maior atenção e investimentos. Caso você não armazene a informação sobre defeitos de segurança centralmente, certifique-se de que você ainda é capaz de facilmente obter as informações de todas as fontes e obter uma visão geral sobre os "pontos quentes", precisando de sua atenção.
+
+  Introduza SLAs para corrigir atempadamente os defeitos de segurança de acordo com sua classificação crítica e monitora centralmente e reporta regularmente violações de SLA. Defina um processo para casos em que não é viável ou econômico corrigir um defeito dentro do tempo definido pelo SLAs. Esta medida deverá pelo menos assegurar que todas as partes interessadas tenham uma sólida compreensão do risco imposto e, se adequado, recorram a controlos compensatórios para estes casos.
+
+  Mesmo se você não tiver nenhum SLAs formal para corrigir defeitos de baixa gravidade, garantir que as equipes responsáveis ainda tenham uma visão geral regular sobre problemas que afetam seus aplicativos e entendem como problemas específicos afetam ou amplificam uns aos outros.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Engenheiro de Segurança
+  - Oficial de Segurança
+#Type Classification of the Document
+type: Atividade

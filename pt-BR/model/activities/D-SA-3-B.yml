@@ -1,0 +1,13 @@
+#The title of this activity
+title: Aplique com rigor o uso de tecnologias recomendadas
+#Describe the benefit that is achieved by implementing this activity
+benefit: Superfície de ataque limitada devido ao uso de tecnologias verificadas
+#A one sentence description of the activity
+shortDescription: Imponha o uso de tecnologias padrão em todo o desenvolvimento de software.
+#A multi-paragraph description of the activity
+longDescription: |
+  Para todo desenvolvimento proprietário (interno ou adquirido), imponha e monitore o uso de tecnologia padronizada. Dependendo de sua organização, implemente essas restrições em ferramentas de criação ou implantação, por meio de análises automatizadas de aplicativos (por exemplo, código-fonte, arquivos de configuração ou artefatos de implantação) ou reveja periodicamente com foco no uso correto desses frameworks.
+
+  Verifique vários fatores com as equipes de projetos. Identifique o uso de tecnologias não recomendadas para determinar se há lacunas nas recomendações em relação às necessidades da organização. Examine os padrões de design não usados ​​ou usados ​​incorretamente e os módulos da plataforma de referência para determinar se as atualizações são necessárias. Além disso, implemente funcionalidades nas plataformas de referência à medida em que a organização evolui e as equipes de projeto a solicitam.
+#Type Classification of the Document
+type: Atividade

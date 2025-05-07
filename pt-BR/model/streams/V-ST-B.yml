@@ -1,0 +1,7 @@
+#Official stream name
+name: Compreensão Profunda
+#Multi-paragraph explanation of the stream
+description: |
+  A compreensão profunda foca em executar testes manuais de segurança em componentes de alto risco, utilizando vetores de ataque complexos com o objetivo de tornar testes de segurança avançados parte integral do processo de desenvolvimento. O objetivo desta stream é favorecer a profundidade do teste (rigor do teste) em detrimento da quantidade (o portfólio de aplicações).
+#Relative order of the stream within the security stream  (A=1 ; B=2)
+order: 2

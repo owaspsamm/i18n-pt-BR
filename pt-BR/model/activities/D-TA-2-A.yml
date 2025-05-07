@@ -1,0 +1,17 @@
+#The title of this activity
+title: Inventário de perfis de risco
+#Describe the benefit that is achieved by implementing this activity
+benefit: Compreensão sólida do nível de risco do seu portfólio de aplicativos
+#A one sentence description of the activity
+shortDescription: Compreende o risco para todos os aplicativos na organização centralizando o inventário do perfil de risco para as partes interessadas.
+#A multi-paragraph description of the activity
+longDescription: |
+  O objetivo desta atividade é compreender completamente o nível de risco de todos os aplicativos dentro da organização, para concentrar o esforço de suas atividades de garantia de software onde realmente importa.
+
+  Do ponto de vista da avaliação de risco, o conjunto básico de perguntas não é suficiente para avaliar completamente o risco de todos os aplicativos. Crie uma maneira ampla e padronizada de avaliar o risco do aplicativo, entre outros, por meio de seu impacto na segurança das informações (confidencialidade, integridade e disponibilidade de dados). Além da segurança, você também deseja avaliar o risco de privacidade do aplicativo. Entenda os dados que o aplicativo processa e quais violações de privacidade potenciais são relevantes. Por fim, estude o impacto que esse aplicativo tem em outros aplicativos dentro da organização (por exemplo, o aplicativo pode estar modificando dados que foram considerados somente leitura em outro contexto). Avalie todos os aplicativos dentro da organização, incluindo todos os existentes e legados.
+
+  Aproveite a análise de impacto nos negócios para quantificar e classificar o risco dos aplicativos. Um esquema qualitativo simples (como alto/médio/baixo) não é suficiente para gerenciar e comparar aplicativos de forma eficaz em toda a empresa.
+
+  Com base nessa entrada, os agentes de segurança aproveitam a classificação para definir o perfil de risco para criar um inventário centralizado de perfis de risco e gerenciar a responsabilidade. Este inventário oferece aos proprietários de produtos, gerentes e outras partes interessadas da organização uma visão alinhada do nível de risco de um aplicativo para atribuir prioridade apropriada às atividades relacionadas à segurança.
+#Type Classification of the Document
+type: Atividade

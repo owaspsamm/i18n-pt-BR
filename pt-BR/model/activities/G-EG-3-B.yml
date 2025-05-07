@@ -1,0 +1,15 @@
+#The title of this activity
+title: Estabeleça uma comunidade de segurança
+#Describe the benefit that is achieved by implementing this activity
+benefit: Desenvolvimento coletivo de know-how de segurança entre todas as equipes de produtos
+#A one sentence description of the activity
+shortDescription: Crie uma comunidade de software segura, incluindo todas as pessoas da organização envolvidas na segurança do software.
+#A multi-paragraph description of the activity
+longDescription: |
+  A segurança é da responsabilidade de todos os trabalhadores, e não apenas da equipe de segurança da informação. Implantar plataformas de comunicação e compartilhamento de conhecimento para ajudar os desenvolvedores a construir comunidades em torno de diferentes tecnologias, ferramentas e linguagens de programação. Nessas comunidades, os funcionários compartilham informações, discutem desafios com outros desenvolvedores e pesquisam a base de conhecimento para respostas a questões discutidas anteriormente.
+
+  Forme comunidades em torno de papéis e responsabilidades e permita que desenvolvedores e engenheiros de diferentes equipes e unidades de negócios se comuniquem livremente e beneficiem dos conhecimentos um do outro. Incentive a participação, crie um programa para promover quem mais ajuda as pessoas como líderes pensados e tenha o gerenciamento reconhecido. Além de melhorar a segurança do aplicativo, esta plataforma pode ajudar a identificar futuros membros do Secure Software Center de Excelência, ou "Campeões da Segurança" com base em seus conhecimentos e vontade de ajudar os outros.
+
+  O Secure Software Center of Excellence e as equipes de Segurança de Aplicativos revisam o portal de informações regularmente para informações sobre as novas e futuras tecnologias, bem como oportunidades de ajudar a comunidade de desenvolvimento com novas iniciativas, ferramentas, programas e recursos de formação. Use o portal para divulgar informações sobre novos padrões, ferramentas e recursos para todos os desenvolvedores para a melhoria contínua da maturidade do SDLC e da segurança dos aplicativos.
+#Type Classification of the Document
+type: Atividade

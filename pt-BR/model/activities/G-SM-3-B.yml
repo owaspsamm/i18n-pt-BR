@@ -1,0 +1,18 @@
+#The title of this activity
+title: Direcione o programa de segurança através de métricas
+#Describe the benefit that is achieved by implementing this activity
+benefit: Melhoria contínua do seu programa de acordo com os resultados
+#A one sentence description of the activity
+shortDescription: Influência da estratégia baseada nas métricas e nas necessidades organizacionais.
+#A multi-paragraph description of the activity
+longDescription: |
+  Defina diretrizes para influenciar o programa de Segurança do Aplicativo baseado em KPIs e outras métricas de segurança do aplicativo. Essas diretrizes combinam a maturidade do processo de desenvolvimento da aplicação com diferentes métricas para tornar o programa mais eficiente. Os exemplos a seguir mostram uma relação entre medições e maneiras de evoluir e melhorar a segurança do aplicativo
+
+  * Foco na maturidade do ciclo de desenvolvimento torna o custo relativo por defeito inferior, aplicando a segurança de forma proativa.
+  * Monitorando o equilíbrio entre esforço, resultado, e as métricas de ambiente melhoram a eficiência do programa e justificam a automação adicional e outros métodos para melhorar a base de segurança geral do aplicativo.
+  * Práticas de Segurança Individuais podem fornecer indicadores de sucesso ou fracasso de iniciativas individuais de segurança de aplicativos.
+  * As métricas de esforço ajudam a garantir que o trabalho de segurança do aplicativo seja direcionado para as tecnologias e disciplinas mais relevantes e importantes.
+
+  Ao definir a estratégia global das métricas, tenha em mente o objetivo final e defina quais decisões podem ser tomadas em resultado de mudanças no KPIs e métricas o mais rapidamente possível. para ajudar a orientar o desenvolvimento de métricas.
+#Type Classification of the Document
+type: Atividade

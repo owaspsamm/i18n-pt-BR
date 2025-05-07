@@ -1,0 +1,9 @@
+#Describe the benefit that is achieved by implementing this activity
+benefit: Transparência total de problemas de segurança conhecidos com dependências
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Arquiteto
+  - Desenvolvedor
+  - Engenheiro de Segurança
+#Type Classification of the Document
+type: Atividade

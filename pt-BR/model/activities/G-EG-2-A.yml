@@ -1,0 +1,23 @@
+#The title of this activity
+title: Personalizar treinamento de segurança
+#Describe the benefit that is achieved by implementing this activity
+benefit: Papéis relevantes dos funcionários treinados de acordo com a sua função específica
+#A one sentence description of the activity
+shortDescription: Ofereça tecnologia e orientação específica, incluindo nuances de segurança de cada idioma e plataforma
+#A multi-paragraph description of the activity
+longDescription: |
+  Conduzir treinamento de segurança ministrado por instrutor ou CBT específico para as funções e tecnologias da organização, começando com a equipe de desenvolvimento central. A organização personaliza o treinamento para gerentes de produto, desenvolvedores de software, testadores e auditores de segurança, com base nas necessidades técnicas de cada grupo.
+
+  - Os gerentes de produto treinam em tópicos relacionados às funções de negócios e práticas de segurança do SAMM, com ênfase em requisitos de segurança, modelagem de ameaças e rastreamento de defeitos.
+  - Os desenvolvedores treinam em padrões de codificação e práticas recomendadas para as tecnologias com as quais trabalham para garantir que o treinamento beneficie diretamente a segurança do aplicativo. Eles têm um conhecimento técnico sólido das 10 principais vulnerabilidades do OWASP, ou deficiências semelhantes relevantes para as tecnologias e estruturas usadas (por exemplo, dispositivos móveis) e as estratégias de remediação mais comuns para cada problema.
+  - Os testadores treinam nas diferentes ferramentas de teste e práticas recomendadas para tecnologias usadas na organização e em ferramentas que identificam defeitos de segurança.
+  - Os auditores de segurança treinam no ciclo de vida de desenvolvimento de software, nos mecanismos de segurança de aplicativos usados ​​na organização e no processo de envio de defeitos de segurança para correção.
+  - Os campeões de segurança treinam sobre tópicos de segurança de várias fases do SDLC. Eles recebem o mesmo treinamento que desenvolvedores e testadores, mas também entendem a modelagem de ameaças e o design seguro, bem como as ferramentas e tecnologias de segurança que podem ser integradas ao ambiente de construção.
+
+  Inclui todo o conteúdo de treinamento das atividades de nível de maturidade 1 deste fluxo e conteúdo adicional específico para funções e tecnologias. Elimine aspectos desnecessários do treinamento.
+
+  O ideal é identificar um especialista no assunto em cada tecnologia para auxiliar na aquisição ou desenvolvimento do conteúdo de treinamento e atualizá-lo regularmente. O treinamento consiste em demonstrações de exploração de vulnerabilidades usando aplicativos intencionalmente enfraquecidos, como WebGoat ou Juice Shop. Incluir resultados da penetração anterior como exemplos de vulnerabilidades e estratégias de remediação implementadas. Peça a um testador de penetração para ajudar no desenvolvimento de exemplos de demonstrações de exploração de vulnerabilidade.
+
+  O treinamento é obrigatório para todos os funcionários e contratados envolvidos com o desenvolvimento de software e inclui uma aprovação auditável para demonstrar a conformidade. Sempre que possível, o treinamento também deve incluir um teste para garantir a compreensão, não apenas a conformidade. Atualizar e fornecer treinamento anualmente para incluir mudanças na organização, tecnologia e tendências. Faça uma pesquisa com os participantes do treinamento para avaliar a qualidade e a relevância do treinamento. Reúna sugestões de outras informações relevantes para seu trabalho ou ambiente.
+#Type Classification of the Document
+type: Atividade

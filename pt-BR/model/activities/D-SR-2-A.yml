@@ -1,0 +1,15 @@
+#The title of this activity
+title: Padronize e integre requisitos de segurança
+#Describe the benefit that is achieved by implementing this activity
+benefit: Alinhamento dos requisitos de segurança com outros tipos de requisitos
+#A one sentence description of the activity
+shortDescription: Requisitos estruturados de segurança estão disponíveis e são utilizados pelas equipes de desenvolvedores.
+#A multi-paragraph description of the activity
+longDescription: |
+  Os requisitos de segurança podem se originar de outras fontes, incluindo políticas e legislação, problemas conhecidos no aplicativo e inteligência a partir de métricas e feedback. Nesse nível, uma elicitação mais sistemática dos requisitos de segurança deve ser alcançada por meio da análise de diferentes fontes de tais requisitos. Certifique-se de que as informações apropriadas sejam recebidas dessas fontes para ajudar na elicitação de requisitos. Por exemplo, organize entrevistas ou sessões de brainstorm (por exemplo, no caso de políticas e legislação), analise registros históricos ou sistemas de vulnerabilidade.
+
+  Use uma notação estruturada dos requisitos de segurança em todos os aplicativos e uma metodologia apropriada que se integre bem com a forma como você especifica outros requisitos (funcionais) para o projeto. Isso pode significar, por exemplo, ampliar os documentos de análise, escrever histórias de usuários, etc.
+
+  Quando os requisitos são especificados, é importante garantir que eles sejam levados em conta durante o desenvolvimento do produto. Configure um mecanismo para estimular ou forçar as equipes de projeto a atender a esses requisitos no produto. Por exemplo, anote os requisitos com prioridades ou influencie o tratamento dos requisitos para garantir o apetite de segurança suficiente (enquanto equilibra com outros requisitos não funcionais).
+#Type Classification of the Document
+type: Atividade

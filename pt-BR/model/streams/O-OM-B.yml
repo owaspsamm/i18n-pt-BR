@@ -1,0 +1,5 @@
+#Multi-paragraph explanation of the stream
+description: |
+  Da perspectiva da organização como consumidora de recursos, as atividades neste fluxo se concentram na identificação, gerenciamento e rastreamento de sistemas, aplicativos, dependências de aplicativos e serviços que não são mais usados, chegaram ao fim da vida útil ou são não é mais desenvolvido ou suportado ativamente. A remoção de sistemas e serviços não utilizados melhora a capacidade de gerenciamento do ambiente e reduz a superfície de ataque da organização, enquanto proporciona economia de custos diretos e indiretos (por exemplo, contagem reduzida de licenças, volume de registro reduzido ou esforço reduzido do analista).
+#Relative order of the stream within the security stream  (A=1 ; B=2)
+order: 2

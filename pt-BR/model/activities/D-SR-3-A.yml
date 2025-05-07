@@ -1,0 +1,15 @@
+#The title of this activity
+title: Desenvolva um framework de requisitos de segurança
+#Describe the benefit that is achieved by implementing this activity
+benefit: Tratamento eficiente e eficaz dos requisitos de segurança em sua organização
+#A one sentence description of the activity
+shortDescription: Crie um framework de requisitos para as equipes de produtos utilizarem.
+#A multi-paragraph description of the activity
+longDescription: |
+  Configure um framework de requisitos de segurança para ajudar os projetos a obterem um conjunto de requisitos completo e apropriado para seu projeto. Este framework leva em conta os diferentes tipos de requisitos e fontes de requisitos. Deve ser adaptado aos hábitos e cultura organizacionais, e fornecer metodologia e orientação eficazes na elicitação e formação de requisitos.
+
+  O framework ajuda as equipes de projeto a aumentarem a eficiência e eficácia da engenharia de requisitos. Ele pode fornecer uma categorização de requisitos comuns e vários requisitos reutilizáveis. Lembre-se que, enquanto a cópia negligente é ineficaz, o fato de ter potenciais requisitos relevantes que considerar é muitas vezes produtivo.
+
+  O framework também fornece orientações claras sobre a qualidade dos requisitos e formaliza como descrevê-los. Para histórias de usuários, por exemplo, orientações concretas podem explicar o que descrever na definição de conclusão, na definição de pronto para uso, na descrição da história e nos critérios de aceitação.
+#Type Classification of the Document
+type: Atividade

@@ -1,0 +1,15 @@
+#The title of this activity
+title: Definir políticas e padrões
+#Describe the benefit that is achieved by implementing this activity
+benefit: Previsão clara de um nível mínimo de segurança na organização
+#A one sentence description of the activity
+shortDescription: Determine uma base de segurança que represente as políticas e padrões da organização.
+#A multi-paragraph description of the activity
+longDescription: |
+  Desenvolver uma biblioteca de políticas e padrões para governar todos os aspectos do desenvolvimento de software na organização. As políticas e normas baseiam-se em padrões da indústria existentes e são apropriadas para a indústria da organização. Devido a toda a gama de limitações específicas de tecnologia e melhores práticas, reveja os padrões propostos com as várias equipes de produtos. Com o objetivo geral de aumentar a segurança das aplicações e a infraestrutura de computação, convidar as equipas de produtos a oferecerem feedback sobre quaisquer aspectos das normas que não fossem viáveis ou que não fossem eficazes em termos de custos para implementar, Além de oportunidades de normas para ir mais longe com pouco esforço nas equipas de produtos.
+
+  Para políticas, enfatize definições de alto nível e aspectos de segurança de aplicativos que não dependem de tecnologia específica ou ambiente de hospedagem. Concentre-se em objectivos mais amplos da organização para proteger a integridade do seu ambiente de computação. segurança e privacidade dos dados e maturidade dos programas que desenvolvem ciclos de vida. Para organizações de maiores dimensões, as políticas podem qualificar requisitos específicos baseados na classificação de dados ou na funcionalidade de aplicação, mas não devem ser detalhadas o suficiente para oferecer orientações de tecnologia específicas.
+
+  Para os padrões, incorpore requisitos definidos pelas políticas, e focar em orientações de implementação específicas de tecnologia destinadas a capturar e aproveitar os recursos de segurança de diferentes linguagens e frameworks de programação. Padrões exigem entrada de desenvolvedores e arquitetos conceituados em diversas tecnologias em uso pela organização. Crie-os em um formato que permite atualizações periódicas. Rótulo ou etiqueta os requisitos individuais com a política ou um requisito de terceiros, para facilitar e tornar mais eficientes a manutenção e auditorias.
+#Type Classification of the Document
+type: Atividade
